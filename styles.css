@@ -1,0 +1,98 @@
+#header{
+
+	color: #19ff0070;
+	background: url("bg.png")no-repeat center center fixed;
+	background-size: cover;
+}
+
+.typeofwords{
+
+	font-family: Impact;
+
+}
+
+.img-style{
+	width: 15%;
+
+}
+
+body{
+	background-color: #FBE3CD;
+	font-family: Arial;
+	background-color: #E6E4FF;
+
+}
+	
+.nav{
+	
+}
+	
+.text{
+	color: #E6E4FF;
+	
+}
+	
+.div-color{
+	background-color: #B7B5FF;
+	text-align: center;
+	height: 490px;
+	margin-left: 30%;
+	margin-right: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+#video{
+	border-radius: 30px;
+
+
+}
+
+#castlevania{
+	border-radius: 15px;
+
+}
+
+
+#publi{
+	border-radius: 15px;
+
+
+}
+
+#casilla1{
+	background-color: #ECF0FF;
+	border-radius: 15px;
+
+
+}
+
+#casilla2{
+	background-color: #ECF0FF;
+	border-radius: 15px;
+}
+
+
+#casilla3{
+	background-color: #ECF0FF;
+	border-radius: 15px;
+}
+
+#casilla4{
+	background-color: #ECF0FF;
+	border-radius: 15px;
+
+}
+
+
+#autoscroll{
+	margin-top: 12px;
+    margin-right: 31px;
+}
+
+#nomanssky{
+	width: 557px;
+	border-radius: 15px;
+}
